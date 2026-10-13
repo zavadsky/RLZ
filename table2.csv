@@ -1,0 +1,5 @@
+file,dictionary size,PASTA + fixed offsets,PASTA + VByte offsets,Elias-Fano + fixed offsets,Elias-Fano + VByte offsets,Uniform + PASTA + fixed offsets,Uniform + Elias-Fano + VByte offsets,Liao complete Zlib scheme
+hp1.txt,8192,214640,212455,207216,205031,229216,222570,230918
+bible.txt,65536,1614648,1602753,1418804,1406909,1709768,1521650,1625007
+dickens.txt,262144,4481496,4453010,3987348,3958862,4670704,4178291,4845270
+ecoli.txt,65536,1752528,1758209,1504192,1509873,1785736,1544287,1761055
