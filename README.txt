@@ -4,9 +4,6 @@ Unified RLZ paper benchmark
 This package reproduces Table 1, Table 2, and the data underlying Figure 1
 of the DCC paper from one executable and one file list.
 
-The executable intentionally exposes only these three reproducibility modes;
-legacy hashing, codec, parser-comparison, and diagnostic modes were removed.
-
 Input
 -----
 
